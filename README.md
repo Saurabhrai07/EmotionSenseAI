@@ -3,3 +3,10 @@ EmotionSenseAI is a Python-based project that uses deep learning to detect and c
 
 
 To access the project change the branch to dev.
+
+Libraried need to be installed :
+Tensorflow
+Keras
+Numpy
+Pandas
+OpenCV
