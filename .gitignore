@@ -3,6 +3,10 @@
 *.class
 *.exe
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 # Packages #
 .venv/
 venv/
